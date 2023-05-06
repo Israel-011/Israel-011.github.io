@@ -5,7 +5,9 @@ This solution allows you to enter requests for time off, see your request histor
 Below you'll find an image of the first thing you'll encounter when you load the app
 ![LeaveRequest_LoginPage](https://user-images.githubusercontent.com/132778426/236640428-50c67c3d-f9e0-453a-bd55-8c4c9e588ef0.PNG)
 
-## Deployment Instructions
+## Employee Home Screen
+After a user logs in as employee, they are brught to this page:
+
 1.  Download the Time Off Zip File
 2.  Go to make.powerapps.com
 3.  Click on the Apps tabs on the left hand rail
