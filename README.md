@@ -7,6 +7,9 @@ Below you'll find an image of the first thing you'll encounter when you load the
 
 ## Employee Home Screen
 After a user logs in as employee, they are brught to this page:
+![EmployeeLoginPage](https://user-images.githubusercontent.com/132778426/236640745-0d5c621f-22f6-4762-a1e0-9ca1da4fa94c.PNG)
+
+
 
 1.  Download the Time Off Zip File
 2.  Go to make.powerapps.com
