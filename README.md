@@ -1,7 +1,7 @@
 ## Time Off Template
 This solution allows you to enter requests for time off, see your request history, view your teams vacation schedule on a shared calendar, and approve requests all from one central application.
 
-![Time Off App](timeAwayScreenshot.png)
+![LeaveRequest_LoginPage](https://user-images.githubusercontent.com/132778426/236640428-50c67c3d-f9e0-453a-bd55-8c4c9e588ef0.PNG)
 
 ## Deployment Instructions
 1.  Download the Time Off Zip File
